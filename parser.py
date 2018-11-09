@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 from lark import Lark
 from lark.tree import pydot__tree_to_png 
-#import sys
-#file = open(sys.argv[1],'r')
 
 grammar =  """
 
